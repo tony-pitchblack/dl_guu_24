@@ -22,11 +22,13 @@
 ### Computer Vision
 7. Метрические методы обучения. Сиамские сети. Функции ошибок для метрических методов
 8. (*)	Автоэнкодеры: VAE, CVAE
-9.(*)	Генеративные модели: GAN, нормализующие потоки
+9. (*)	Генеративные модели: GAN, нормализующие потоки
 10. (*) 	Дифузионные модели
-11.	Детекция объектов: RCNN Fast RCNN, Faster RCNN
-12.	Детекция объектов: YOLOv1, v2, v3
-13.	Сегментация объектов: SegNet, Unet. DeepLab
+11.	Детекция объектов. Двухстадийные модели детекции объектов: RCNN Fast RCNN, Faster RCNN.
+    [Основы детекции](https://youtu.be/Y4JvVOaZWsU?si=vRu9pzqLb8HXhlzc)
+   	[Двухстадийные модели](https://youtu.be/WrKl7GHWilA?si=2g7siXDyYcgSFAvO)
+13.	Детекция объектов: YOLOv1, v2, v3
+14.	Сегментация объектов: SegNet, Unet. DeepLab
 ### NLP
 14. Тексты. Принципы предобработки текстов. Схема обучения word2vec. Что такое токен. Модель WordPiece. 
 15.	Рекуррентные сети [[DLS 2](https://youtu.be/3OljkWQ2Uc0?si=jRMaq90_bJXoctgc)] Регрессия, авторегрессия, seq2seq. Устройство LSTM, biLSTM нейрона [[DLS 2](https://youtu.be/2a_7SmTNrJA?si=hQ9no6ir2KLDFpoD)]

@@ -25,8 +25,8 @@
 9. (*)	Генеративные модели: GAN, нормализующие потоки
 10. (*) 	Дифузионные модели
 11.	Детекция объектов. Двухстадийные модели детекции объектов: RCNN Fast RCNN, Faster RCNN.
-    [Основы детекции](https://youtu.be/Y4JvVOaZWsU?si=vRu9pzqLb8HXhlzc)
-   	[Двухстадийные модели](https://youtu.be/WrKl7GHWilA?si=2g7siXDyYcgSFAvO)
+    * [Основы детекции](https://youtu.be/Y4JvVOaZWsU?si=vRu9pzqLb8HXhlzc)
+   	* [Двухстадийные модели](https://youtu.be/WrKl7GHWilA?si=2g7siXDyYcgSFAvO)
 13.	Детекция объектов: YOLOv1, v2, v3
 14.	Сегментация объектов: SegNet, Unet. DeepLab
 ### NLP

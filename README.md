@@ -31,7 +31,7 @@
 14.	Сегментация объектов: SegNet, Unet. DeepLab.
     * [Основы сегментации](https://youtu.be/tIqndofykgc?si=zqW59HzFOPFCxWR6)
 ### NLP
-14. Тексты. Принципы предобработки текстов. Схема обучения word2vec. Что такое токен. Модель WordPiece. 
+14. Тексты. Принципы предобработки текстов. Схема обучения word2vec [[DLS 2](https://youtu.be/WbtQzAvhnRI?si=7FYIbhLZnb5-jTR6)]. Что такое токен. Модель WordPiece. 
 15.	Рекуррентные сети [[DLS 2](https://youtu.be/3OljkWQ2Uc0?si=jRMaq90_bJXoctgc)] Регрессия, авторегрессия, seq2seq. Устройство LSTM, biLSTM нейрона [[DLS 2](https://youtu.be/2a_7SmTNrJA?si=hQ9no6ir2KLDFpoD)]
 16. Рекуррентные сети и механизм внимания в  seq2seq последовательностях [[DLS 2](https://youtu.be/Fki-Xe3CGg8?si=Cne0Vwryo-cn74FH)]
 17. Машинный перевод, схема обучения в машинном переводе. [[DLS 2](https://youtu.be/QjpEWRq-Cak?si=u8mfjSCEQ0oWicQB)]. Модель языка.  Метрики качества на примере  BLEU

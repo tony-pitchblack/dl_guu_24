@@ -34,7 +34,7 @@
 14. Тексты. Принципы предобработки текстов. Схема обучения word2vec [[DLS 2](https://youtu.be/WbtQzAvhnRI?si=7FYIbhLZnb5-jTR6)]. Что такое токен. Модель WordPiece. 
 15.	Рекуррентные сети [[DLS 2](https://youtu.be/3OljkWQ2Uc0?si=jRMaq90_bJXoctgc)] Регрессия, авторегрессия, seq2seq. Устройство LSTM, biLSTM нейрона [[DLS 2](https://youtu.be/2a_7SmTNrJA?si=hQ9no6ir2KLDFpoD)]
 16. Рекуррентные сети и механизм внимания в  seq2seq последовательностях [[DLS 2](https://youtu.be/Fki-Xe3CGg8?si=Cne0Vwryo-cn74FH)]
-17. Машинный перевод, схема обучения в машинном переводе. [[DLS 2](https://youtu.be/QjpEWRq-Cak?si=u8mfjSCEQ0oWicQB)]. Модель языка.  Метрики качества на примере  BLEU
+17. Машинный перевод, схема обучения в машинном переводе. [[DLS 2](https://youtu.be/QjpEWRq-Cak?si=u8mfjSCEQ0oWicQB)]. Модель языка [DLS 2](https://youtu.be/DHuRg6iO6FU?si=Fk45tVE7ikeoqRzX).  Метрики качества на примере  BLEU
 18. Трансформеры. Архитектура, функционал, элементы. Принцип работы [[DLS 2](https://youtu.be/TBEwpgyoo20?si=wp31J6INJZaHOOPz)]
 19. Внимание и самовнимание в трансформерах. Query, Keys, Values, Mask Attantion [[DLS 2](https://youtu.be/tsee8mosj5U?si=5-UbUtrUkLDCYLil)]
 20. LSTM vs Тансформер. Достоинства и недостатки каждой архитектуры. Основные различия. [см. п.15 и п.18]

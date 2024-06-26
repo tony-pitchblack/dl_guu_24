@@ -20,7 +20,7 @@
 4.	Архитектуры сверточных нейронных сетей [[DLS 1](https://youtu.be/TcUPuKpIlhQ?si=tE0OvHgE70VVORnS)]. Передача обучения [DLS1](https://youtu.be/oLpREso27Zw?si=uJjaUhD0ta2_rnng)
 6.	Оптимизация: стохастический градиент,  Adam, RmsProp. Автоматическое дифференцирование. Матричные производные. 
 7.	Повышение качества обучения (минимизация loss функции): аугментация, выбор гиперпараметров, настройка гиперпарамтеров, Байесовская оптимизация. Плюсы и минусы каждого подхода
-### Computer Vision
+### Computer Vision [[DLS 1, full playlist](https://www.youtube.com/watch?v=fyu2KiC2gwY&list=PL0Ks75aof3Tiru-UvOvYmXzD1tU0NrR8V&pp=iAQB)]
 7. Метрические методы обучения. Сиамские сети. Функции ошибок для метрических методов
 8. (*)	Автоэнкодеры: VAE, CVAE [[DLS 1](https://youtu.be/6qVfC7P9dEc?si=ZQqRcYsxOdmOUlIl)]
 9. (*)	Генеративные модели: GAN, нормализующие потоки
@@ -33,7 +33,7 @@
     * [Основы сегментации](https://youtu.be/tIqndofykgc?si=zqW59HzFOPFCxWR6)
     * [Элементы нейросетей для детекции](https://youtu.be/K73tZxH9nvE)
     * [Unet](https://youtu.be/yEuIV5FsRMs)
-### NLP
+### NLP [[DLS 2, full playlist](https://www.youtube.com/watch?v=EOgwODW67PE&list=PL0Ks75aof3ThuLLtLIVl_KPUDDQlTDyJI&pp=iAQB)]
 14. Тексты. Принципы предобработки текстов. Схема обучения word2vec [[DLS 2](https://youtu.be/WbtQzAvhnRI?si=7FYIbhLZnb5-jTR6)]. Что такое токен. Модель WordPiece. 
 15.	Рекуррентные сети [[DLS 2](https://youtu.be/3OljkWQ2Uc0?si=jRMaq90_bJXoctgc)] Регрессия, авторегрессия, seq2seq. Устройство LSTM, biLSTM нейрона [[DLS 2](https://youtu.be/2a_7SmTNrJA?si=hQ9no6ir2KLDFpoD)]
 16. Рекуррентные сети и механизм внимания в  seq2seq последовательностях [[DLS 2](https://youtu.be/Fki-Xe3CGg8?si=Cne0Vwryo-cn74FH)]
